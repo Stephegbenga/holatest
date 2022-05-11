@@ -1,0 +1,14 @@
+
+.creator-card{
+    max-width: 300px;
+    box-shadow: 0.1px 0.1px 4px white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.creator-card:hover{
+    box-shadow: 0.3px 0.8px 8px white;
+}

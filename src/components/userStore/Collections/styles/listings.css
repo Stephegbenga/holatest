@@ -1,0 +1,51 @@
+h1{
+    font-family: Orbitron, cursive;
+}
+
+.h-450{
+    height: 450px;
+ 
+}
+.nft-collection-desc article{
+    max-width: 600px;
+}
+.image-cover{
+    height: 60vh;
+    background-image: url(../../../../images/ufo2.jpg);
+    background-size: 100% 100%;
+}
+
+.lse button{
+    font-size: clamp(16px, 2vw, 20px);
+    color: white;
+    font-family: 'El Messiri';
+}
+.lse .active{
+    background-color: grey;
+}
+.lse input{
+background-color: rgba(20,20,20,0.7);
+}
+.nft-image-block > a:hover{
+box-shadow: 0.3px 0.3px 8px white;
+}
+
+.sol-price{
+    font-size: 25px;
+    font-family: 'El Messiri';
+}
+
+.dollar-price{
+    font-size: large;
+}
+
+.dollar-sign{
+    color: rgb(255, 0, 157);
+}
+.sol-logo{
+    width: 25px;
+    height: 25px;
+}
+.win{
+    color: rgb(36, 215, 247)
+}
